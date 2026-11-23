@@ -19,7 +19,7 @@ Excel and Power BI project analysing **hospital readmission** in diabetes patien
 |---|---|
 | `Diabetes Readmission and Hospital Care Analytics.pbix` | Power BI report (open in Power BI Desktop) |
 | `Power BI report PDF .pdf` | PDF export of all four dashboards, viewable without Power BI |
-| `Data_Cleaning_and_Pre_Processing.xlsx` | Cleaned dataset with fact and dimension tables, with Raw Data and IDS mapping |
+| `Mini Project Data Cleaning Detailed Explanation .docs` | Detailed steps of Data Cleaning and Pre Processing with Google sheet link of cleaned data |
 
 ## Tools
 Excel, Power Query, Power BI, DAX
